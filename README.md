@@ -53,6 +53,7 @@ SPASL_v1 repository
 ├── full_result
 │   ├── IW_table.zip
 │   ├── Radar_chart.zip
+│   ├── Ranking.md
 │   ├── SPAPS_v1_full_test_results.xlsx
 │   └── SPASL_v1_full_test_results.json
 └── src
