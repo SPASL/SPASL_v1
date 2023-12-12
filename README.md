@@ -145,12 +145,16 @@ It is the local test history on SPASL\_demo.
 ### 4. full_result
 ```
 full_result
+├── IW_table.zip
+├── Ranking.md
 ├── SPASL_v1_full_test_radar_chart.zip
 ├── SPAPS_v1_full_test_results.xlsx
 └── SPASL_v1_full_test_results.json
 ```
 
-All files in this folder are the test results of $80$ very influential models in the past decade.
+The ranking of $80$ very influential models in our SPASL_v1 is provided in Ranking.md.
+
+The last three files are the detailed test results of these models.
 
 ### 5. src
 ```
