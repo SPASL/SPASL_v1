@@ -152,7 +152,7 @@ full_result
 └── SPASL_v1_full_test_results.json
 ```
 
-The ranking of $80$ very influential models in our SPASL_v1 is provided in Ranking.md.
+The ranking of $80$ very influential models on SPASL_v1 is provided in ```Ranking.md```.
 
 The last three files are the detailed test results of these models.
 
