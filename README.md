@@ -3,7 +3,7 @@
 ## Overview
 SPASL_v1 is a versatile and efficient robustness benchmark. It assesses an image classification model in the following dimensions: accuracies on very difficult images, images with partial information, robustness against adversarial attacks, speckle noise, and low resolution degradations.  
 
-SPASL_v1 consists of five components: **S**uperHard (SH), **P**artialInfo (PI), **A**dversarialAttack (AA), **S**peckleNoise (SN), and **L**owResolution (LR). Each component contains $10\,000$ images over $1\,000$ classes.
+SPASL_v1 consists of five components: **S**uperHard (SH), **P**artialInfo (PI), **A**dversarialAttack (AA), **S**peckleNoise (SN), and **L**owResolution (LR). Each component contains $10\,000$ images over $1\,000$ classes. SPASL_v1 will be shared to public after the publication.
 
 ```
 SPASL_v1
